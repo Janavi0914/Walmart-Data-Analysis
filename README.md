@@ -51,4 +51,4 @@ This analysis aims to answer the question of the sales trends of product. The re
 4.Which customer type pays the most in VAT?
 
 **Code**
-Check 
+Check [SQL_queries.sql](https://github.com/Janavi0914/Walmart-Data-Analysis/blob/main/SQL_queries.sql)
